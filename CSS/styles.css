@@ -1,0 +1,54 @@
+.logo {
+    height:4%;
+    width:4%;
+    position: relative;
+    left:100px;
+    top: 60px;
+
+}
+
+div{
+   position: sticky;
+    background-color:aliceblue;
+    width:2000px;
+    border: 0;
+}
+li {
+    color: brown;
+    display:inline-block;
+    padding:25px;
+    position: relative;
+    left:200px;
+    
+}
+.searchbar {
+     background-color:rgb(246, 243, 243);
+     width: 550px;
+     height:40px;
+     text-align: center;
+     position: relative;
+     left:220px;
+}
+.material-icons {
+    position:relative;
+    left:250px;
+    
+   
+}
+.icon-resize {
+    position: relative;
+    top:10px;
+    right:0px;
+    font-size: smaller;
+} 
+.firstpic {
+    position: relative;
+   width:2000px;
+    
+}
+.secondpic{
+    width:100%;
+}
+.thirdpic {
+    width:100%;
+}
